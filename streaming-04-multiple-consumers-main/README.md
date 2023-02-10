@@ -58,3 +58,12 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+![image](https://user-images.githubusercontent.com/111456228/218132661-e7e63f94-3bb2-4ae5-b629-b0228b20dfd3.png)
+
+![image](https://user-images.githubusercontent.com/111456228/218132708-9eff9acf-d3cb-498b-9ba3-599596803f4d.png)
+
+![image](https://user-images.githubusercontent.com/111456228/218132750-69c68bad-6d84-4778-be0e-8d5e3b6a52ae.png)
+
+![image](https://user-images.githubusercontent.com/111456228/218132778-3e6ae076-5f4a-4861-a358-44a018d96404.png)
+
+
